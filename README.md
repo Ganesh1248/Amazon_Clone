@@ -13,4 +13,7 @@ This is a fully responsive Amazon Clone built using HTML, CSS, and JavaScript to
 🎯 Live Demo
 🔗 Click here to view
 
-Feel free to star ⭐ the repository and suggest improvements! 😊🚀
+
+
+
+
